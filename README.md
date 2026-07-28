@@ -30,7 +30,7 @@ The projects were developed using:
 
 ## 1. Mean-Variance-Standard Deviation Calculator
 
-📁 [View Project] Mean-Variance-Standard Deviation Calculator
+📁 [View Project] (./Mean-Variance-Standard Deviation Calculator)
 ### Overview
 
 A statistical calculator built using **NumPy**.
