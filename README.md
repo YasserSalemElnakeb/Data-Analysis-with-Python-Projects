@@ -30,7 +30,7 @@ The projects were developed using:
 
 ## 1. Mean-Variance-Standard Deviation Calculator
 
-📁 [View Project] Mean-Variance-Standard Deviation Calculator
+📁 [View Project] https://github.com/YasserSalemElnakeb/Data-Analysis-with-Python-Projects/tree/8f4f10eeace308dead61b861c1fa3ca0a2bb8acf/Mean-Variance-Standard%20Deviation%20Calculator
 
 ### Overview
 
