@@ -188,3 +188,9 @@ The model predicts expected sea level rise until:
 
 ```bash
 git clone https://github.com/YasserSalemElnakeb/Data-Analysis-with-Python-Projects.git
+## Installation
+
+Install the required libraries:
+
+```bash
+pip install -r requirements.txt
