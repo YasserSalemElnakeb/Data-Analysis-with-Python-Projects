@@ -30,7 +30,8 @@ The projects were developed using:
 
 ## 1. Mean-Variance-Standard Deviation Calculator
 
-📁 [View Project] (./Mean-Variance-Standard Deviation Calculator)
+📁 [View Project](https://github.com/YasserSalemElnakeb/Data-Analysis-with-Python-Projects/tree/main/Mean-Variance-Standard%20Deviation%20Calculator)
+
 ### Overview
 
 A statistical calculator built using **NumPy**.
@@ -48,7 +49,7 @@ Calculations are performed for:
 
 - Rows
 - Columns
-- Flattened matrix
+- Flattened Matrix
 
 ### Main Libraries
 
@@ -60,7 +61,7 @@ Calculations are performed for:
 
 ## 2. Demographic Data Analyzer
 
-📁 [View Project](./Demographic-Data-Analyzer)
+📁 [View Project](https://github.com/YasserSalemElnakeb/Data-Analysis-with-Python-Projects/tree/main/Demographic%20Data%20Analyzer)
 
 ### Overview
 
@@ -75,7 +76,6 @@ The analysis answers questions such as:
 - Countries with highest income percentage
 - Occupations with high income
 
-
 ### Main Libraries
 
 - Python
@@ -86,7 +86,7 @@ The analysis answers questions such as:
 
 ## 3. Medical Data Visualizer
 
-📁 [View Project](./Medical-Data-Visualizer)
+📁 [View Project](https://github.com/YasserSalemElnakeb/Data-Analysis-with-Python-Projects/tree/main/Medical-Data-Visualizer)
 
 ### Overview
 
@@ -120,7 +120,7 @@ Created visualizations:
 
 ## 4. Page View Time Series Visualizer
 
-📁 [View Project](./Page-View-Time-Series-Visualizer)
+📁 [View Project](https://github.com/YasserSalemElnakeb/Data-Analysis-with-Python-Projects/tree/main/Page-View-Time-Series-Visualizer)
 
 ### Overview
 
@@ -154,7 +154,7 @@ Created charts:
 
 ## 5. Sea Level Predictor
 
-📁 [View Project](./Sea-Level-Predictor)
+📁 [View Project](https://github.com/YasserSalemElnakeb/Data-Analysis-with-Python-Projects/tree/main/Sea%20Level%20Predictor)
 
 ### Overview
 
@@ -179,7 +179,6 @@ The model predicts expected sea level rise until:
 - Pandas
 - Matplotlib
 - SciPy
-
 
 ---
 
